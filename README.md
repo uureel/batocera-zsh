@@ -13,9 +13,9 @@ with cli utilities for batocera x86_64 v36/37 </i><br>
 <br>
 <br>
 <b>INSTALLATION</b> <br>
-1. </b><i><a href=https://github.com/uureel/batocera-zsh/raw/main/zsh.tar>Download zsh.tar</a> <br> 
-2. extract it <br>
-3. run zsh.sh <br>
+</b>1.<b> </b><i><a href=https://github.com/uureel/batocera-zsh/raw/main/zsh.tar>Download zsh.tar</a> <br> 
+</b>2.<b> extract it <br>
+</b>3.<b> run zsh.sh <br>
 </font></b></i><br>
 <br>
 <br>
