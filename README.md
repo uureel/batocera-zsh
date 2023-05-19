@@ -24,7 +24,7 @@ running zsh.sh you can simply run zsh, git, etc. until restart. <br>
 </i>
 <br>
 <br>
-<img src=https://github.com/uureel/batocera-zsh/assets/116395185/1b860b58-feb3-414b-8bd3-57a12bcc064d style="width: 50%; height: 50%;"></img>
+<img src=https://github.com/uureel/batocera-zsh/assets/116395185/c07472e3-d234-419f-9a25-b33b3da2f75b style="width: 50%; height: 50%;"></img>
 <br>
 <br>
 <b>SUPPORT & QUESTIONS</b> <br> 
