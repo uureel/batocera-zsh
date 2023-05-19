@@ -8,7 +8,7 @@
 - exa
 - fish 
 - fetch 
-- batcat 
+- batcat <br>
 for batocera x86_64 v36/37 <br>
 <br>
 <br>
