@@ -1,12 +1,12 @@
 # batocera-zsh
 <b>THIS ALL-IN-1 PACKAGE PROVIDES CLI UTILITIES FOR BATOCERA X86_64 V36/37
 - zsh 
-- git 
-- ohmyzsh
 - plugins 
+- ohmyzsh
 - p10k 
-- fish 
+- git 
 - exa
+- fish 
 - fetch 
 - batcat 
 <br>
