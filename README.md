@@ -19,8 +19,8 @@ with cli utilities for batocera x86_64 v36/37 </i><br>
 </font></b></i><br>
 <br>
 <u><b>note:</b></u> ext4 or btrfs filesystem is needed;<br>
-</i>the package, provided apps and libraries are symlinked, after <br>
-running zsh.sh you can simply run zsh, git, etc. until restart. <br>
+</i>the package, provided apps and libraries are symlinked, <br>
+after running zsh.sh you can simply run zsh, git, etc. until restart. <br>
 </i>
 <br>
 <br>
