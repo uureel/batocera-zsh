@@ -1,5 +1,5 @@
 # batocera-zsh
-<b><i>This repo provides am all-in-1 preconfigured package <br>
+<b></i>This repo provides a preconfigured package <br>
 with cli utilities for batocera x86_64 v36/37 </i><br>
 - zsh
 - plugins 
