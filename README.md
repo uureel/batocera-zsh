@@ -5,7 +5,6 @@
 - plugins 
 - ohmyzsh
 - p10k 
-
 - git 
 - exa
 - fish 
