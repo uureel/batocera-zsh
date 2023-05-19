@@ -1,5 +1,5 @@
 # batocera-zsh
-<b></i>This repo provides a preconfigured package <br>
+</b></i>This repo provides a preconfigured package <br>
 with cli utilities for batocera x86_64 v36/37 </i><br>
 - zsh
 - plugins 
@@ -10,7 +10,7 @@ with cli utilities for batocera x86_64 v36/37 </i><br>
 - fish 
 - fetch 
 - batcat
-<br>
+</b><br>
 <br>
 <b>INSTALLATION</b> <br>
 </b>1.<b> </b><i><a href=https://github.com/uureel/batocera-zsh/raw/main/zsh.tar>Download zsh.tar</a> <br> 
