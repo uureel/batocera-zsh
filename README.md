@@ -11,7 +11,7 @@
 <br>
 <br>
 <b>INSTALLATION</b> <br>
-</b><i>Download zsh.tar, extract it, run zsh.sh</font></b></i><br>
+</b><i>Download <a hred=https://github.com/uureel/batocera-zsh/raw/main/zsh.tar>zsh.tar</a>, extract it, run zsh.sh</font></b></i><br>
 <br>
 <br>
 <b>SUPPORT & QUESTIONS</b> <br> 
