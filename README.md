@@ -1,15 +1,17 @@
-# batocera-fightcade
-<b>THIS PACKAGE PROVIDES FIGHTCADE 2.1.38 <br>
-</b><i>and all dependencies for Batocera 35/36 </i> <br>
-<br>
-<br>
-<img src="https://github.com/uureel/batocera-fightcade/raw/main/installer/icong.png" width=96 height=96 /><b><i></b></i><br>
+# batocera-zsh
+<b>THIS ALL-IN-1 PACKAGE PROVIDES CLI UTILITIES FOR BATOCERA X86_64 V36/37
+- zsh 
+- ohmyzsh
+- p10k 
+- git 
+- fish 
+- exa
+- batcat 
+- fetch 
 <br>
 <br>
 <b>INSTALLATION</b> <br>
-</b><i>Run this command in xterm or ssh: </font></b></i><br>
-```   curl -L fightcade.batocera.pro | bash   ``` <br>
-<br>
+</b><i>Download zsh.tar, extract it and run zsh.sh</font></b></i><br>
 <br>
 <br>
 <b>SUPPORT & QUESTIONS</b> <br> 
