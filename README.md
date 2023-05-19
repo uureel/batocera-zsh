@@ -1,13 +1,14 @@
 # batocera-zsh
 <b>THIS ALL-IN-1 PACKAGE PROVIDES CLI UTILITIES FOR BATOCERA X86_64 V36/37
 - zsh 
-- ohmyzsh
-- p10k 
 - git 
+- ohmyzsh
+- plugins 
+- p10k 
 - fish 
 - exa
-- batcat 
 - fetch 
+- batcat 
 <br>
 <b>INSTALLATION</b> <br>
 </b><i><a href=https://github.com/uureel/batocera-zsh/raw/main/zsh.tar>Download zsh.tar</a>, extract it, run zsh.sh</font></b></i><br>
