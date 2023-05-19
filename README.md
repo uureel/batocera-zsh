@@ -1,5 +1,5 @@
 # batocera-zsh
-<b>This all-in-1 package provides: <br>
+<b>This all-in-1 package provides cli utilities for batocera x86_64 v36/37 <br>
 - zsh 
 - plugins 
 - ohmyzsh
@@ -8,8 +8,7 @@
 - exa
 - fish 
 - fetch 
-- batcat <br>
-for batocera x86_64 v36/37 <br>
+- batcat
 <br>
 <br>
 <b>INSTALLATION</b> <br>
