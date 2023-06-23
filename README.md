@@ -31,12 +31,12 @@ with cli utilities for x64 batocera v36/37 </i><br>
 <b>INSTALLATION</b> <br>
 </b>1.<b> </b><i><a href=https://github.com/uureel/batocera-zsh/raw/main/batocera-zsh.tar.bz2>Download the package</a> <br> 
 </b></i>2. extract it <br>
-</b></i>3. run zsh.sh <br>
-```
-wget -O ~/batocera-zsh.tar.bz2 https://github.com/uureel/batocera-zsh/raw/main/batocera-zsh.tar.bz2
-tar -xf ~/batocera-zsh.tar.bz2
-~/zsh/zsh.sh
-```
+</b></i>3. run zsh.sh <br><br>
+
+> wget -O ~/batocera-zsh.tar.bz2 https://github.com/uureel/batocera-zsh/raw/main/batocera-zsh.tar.bz2 <br>
+> tar -xf ~/batocera-zsh.tar.bz2 <br>
+> ~/zsh/zsh.sh <br><br>
+
 </font></b></i><br>
 <u><b>note:</b></u> ext4 or btrfs filesystem is needed;<br>
 </i>the package, provided apps and libraries are symlinked, <br>
