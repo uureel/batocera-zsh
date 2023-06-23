@@ -1,8 +1,7 @@
 # batocera-zsh
 </b></i>This repo provides a preconfigured package <br>
 with cli utilities for x64 batocera v36/37 </i><br>
-- zsh + ohmyzsh + plugins + p10k
-  (all preconfigured, with ~/.zshrc & ~/p10k.zsh) 
+- zsh + ohmyzsh + plugins + p10k <i>(all preconfigured, with ~/.zshrc & ~/p10k.zsh)</i> 
 - aria2c
 - bandwhich
 - bat / batcat
