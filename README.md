@@ -33,8 +33,7 @@ with cli utilities for x64 batocera v36/37 </i><br>
 &nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;tar -xf ~/batocera-zsh.tar.bz2 <br>
 &nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;&nbsp;~/zsh/zsh.sh <br>
 </font></b></i><br>
-<u><b><i>NOTE:</i></b></u> ext4 or btrfs filesystem is needed as the provided apps and libraries are symlinked; <br>
-after running zsh.sh you can simply run zsh, git, etc. <br>
+<u><b><i>NOTE:</i></b></u> ext4 or btrfs filesystem is needed as the provided apps and libraries are symlinked <br>
 </i>
 <br>
 <br>
