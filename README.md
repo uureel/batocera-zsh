@@ -5,6 +5,7 @@ with zsh and cli utilities for x64 batocera v36/37 </i><br><br>
 - aria2c
 - bandwhich
 - bat / batcat
+- bpytop 
 - dua
 - duf
 - exa
@@ -14,6 +15,7 @@ with zsh and cli utilities for x64 batocera v36/37 </i><br><br>
 - git
 - glances
 - hyperfine
+- icdiff 
 - micro
 - neofetch
 - procs
@@ -23,6 +25,8 @@ with zsh and cli utilities for x64 batocera v36/37 </i><br><br>
 - scc
 - screenfetch
 - sd
+- speedtest-cli
+- tldr
 - transfersh
 - tre
 - zoxide 
