@@ -28,10 +28,10 @@ with cli utilities for x64 batocera v36/37 </i><br>
 - zoxide 
 </b><br>
 <br>
-<b>INSTALLATION</b> <br>
-` wget -O ~/batocera-zsh.tar.bz2 https://github.com/uureel/batocera-zsh/raw/main/batocera-zsh.tar.bz2 `
-` tar -xf ~/batocera-zsh.tar.bz2 `
-` ~/zsh/zsh.sh `
+<b>INSTALLATION </b> (on batocera v37) <br>
+1. wget -O ~/batocera-zsh.tar.bz2 https://github.com/uureel/batocera-zsh/raw/main/batocera-zsh.tar.bz2 <br>
+2. tar -xf ~/batocera-zsh.tar.bz2 <br>
+3. ~/zsh/zsh.sh <br>
 <br>
 </font></b></i><br>
 <u><b>note:</b></u> ext4 or btrfs filesystem is needed;<br>
