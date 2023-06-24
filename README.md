@@ -29,6 +29,7 @@ with zsh and cli utilities for x64 batocera v36/37 </i><br><br>
 - tldr
 - transfersh
 - tre
+- xmlstarlet
 - zoxide 
 </b><br>
 <br>
