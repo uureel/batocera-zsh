@@ -1,5 +1,5 @@
 # batocera-zsh
-</b></i>This repo provides cli goodies for x64 batocera </i><br><br>
+</b></i>This repo provides cli goodies for batocera x86_64 </i><br><br>
 - **zsh** *+ ohmyzsh + plugins + p10k + ~/.zshrc + ~/p10k.zsh*
 - **docker**
 - **podman**
