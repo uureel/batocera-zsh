@@ -1,19 +1,20 @@
 # batocera-zsh
-</b></i>This repo provides a preconfigured package <br>
-with zsh and cli utilities for x64 batocera v36/37/38 </i><br><br>
-- zsh + ohmyzsh + plugins + p10k <i>(with ~/.zshrc & ~/p10k.zsh)</i> 
+</b></i>This repo provides cli goodies for x64 batocera </i><br><br>
+- **zsh** *+ ohmyzsh + plugins + p10k + ~/.zshrc + ~/p10k.zsh*
+- **docker**
+- **podman**
+- **distrobox**
+- **git**
+- **fish**
+- exa
+- bat / batcat
+- glances
 - aria2c
 - bandwhich
-- bat / batcat
-- bpytop 
+- btop 
 - dua
 - duf
-- exa
-- fish
-- fuck
 - fzf
-- git
-- glances
 - hyperfine
 - icdiff 
 - micro
@@ -33,10 +34,10 @@ with zsh and cli utilities for x64 batocera v36/37/38 </i><br><br>
 - zoxide 
 </b><br>
 <br>
-<b><i>INSTALLATION</i></b> (on batocera v37) <br>
-&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;wget -O ~/zsh.tar.bz2 https://batocera.pro/app/zsh.tar.bz2 <br>
-&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;tar -xf ~/zsh.tar.bz2 <br>
-&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;&nbsp;~/zsh/zsh.sh <br>
+<b><i>INSTALLATION</i></b><br>
+&nbsp;&nbsp;&nbsp;1.&nbsp;&nbsp;&nbsp;wget -O ~/cli.tar.gz batocera.pro/app/cli.tar.gz <br>
+&nbsp;&nbsp;&nbsp;2.&nbsp;&nbsp;&nbsp;tar -xf ~/cli.tar.gz <br>
+&nbsp;&nbsp;&nbsp;3.&nbsp;&nbsp;&nbsp;~/cli/run <br>
 </font></b></i><br>
 <u><b><i>NOTE:</i></b></u> ext4 or btrfs filesystem is needed as the provided apps and libraries are symlinked <br>
 </i>
