@@ -27,6 +27,7 @@
 - screenfetch
 - sd
 - speedtest-cli
+- strings
 - tldr
 - transfersh
 - tre
