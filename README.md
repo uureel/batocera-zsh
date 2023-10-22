@@ -36,7 +36,7 @@
 </b><br>
 <br>
 <b><i>INSTALLATION</i></b><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```wget -O ~/cli.tar.gz batocera.pro/app/cli.tar.gz```
+`wget -O ~/cli.tar.gz batocera.pro/app/cli.tar.gz`
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```tar -xf ~/cli.tar.gz```
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```~/cli/run```
 </font></b></i><br>
