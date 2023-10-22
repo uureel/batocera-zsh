@@ -40,7 +40,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tar -xf ~/cli.tar.gz <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~/cli/run <br>
 </font></b></i><br><br>
-<u><b><i>NOTE:</i></b></u> ext4 or btrfs filesystem is needed as the provided apps and libraries are symlinked <br>
+<u><b><i>NOTE:</i></b></u> ext4 or btrfs filesystem is needed for symlinks <br>
 </i>
 <br>
 <br>
